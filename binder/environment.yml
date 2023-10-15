@@ -1,0 +1,13 @@
+name: aavso-howto
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab>=3,<4   # This makes binder easier since no postBuild is required
+  - astrowidgets
+  - ccdproc
+  - photutils
+  - astroquery
+  - matplotlib
+  - astropy >5
+  - astroplan
+  - stellarphot >1,<2
