@@ -15,3 +15,7 @@ To try these notebooks out without installing anything on your computer click th
 ## How to run these notebooks on your computer
 
 Please see the installation instructions in the notebook [AAVSO-HOWTO-Astropy-Astroquery.ipynb](AAVSO-HOWTO-Astropy-Astroquery.ipynb)
+
+## Video of the how-to
+
+A recording of the how-to session is here: [https://fb.watch/nHOMxyH357/](https://fb.watch/nHOMxyH357/)
