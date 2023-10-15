@@ -2,6 +2,10 @@
 
 The Jupyter notebooks that were used during the webinar are in this repository.
 
+## Data credit
+
+The EY UMa photometry in the CSV file included here was produced by [Emily Watson](https://github.com/WatsonEmily11).
+
 ## How to get the notebooks/data
 
 The easiest way is go to the green "<> Code" button near the top of the page. Click on it, and you can download a zip with everything.
